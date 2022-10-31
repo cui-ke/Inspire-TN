@@ -18,16 +18,10 @@
 
 <http://cui.unige.ch/isi/onto/inspire-TN> 
     dct:creator "Claudine Métral & Gilles Falquet - Université de Genève" ;
-    dct:description """
-This is a translation in OWL of the structural part of the 
-
-D2.8.I.7 Data Specification on Transport Networks – Technical Guidelines
-
-https://inspire.ec.europa.eu/id/document/tg/tn
-
-""";
+    dct:description """This is a translation in OWL of the structural part of the D2.8.I.7 Data Specification on Transport Networks - Technical Guidelines https://inspire.ec.europa.eu/id/document/tg/tn""";
     dct:publisher <http://cui.unige.ch> ;
-    dct:rights <https://creativecommons.org/licenses/by/3.0/> .
+    dct:rights <https://creativecommons.org/licenses/by/3.0/> ;
+    dct:title "INSPIRE Data Specification on Transport Networks" .
 
 #################################################################
 #    Annotation properties
